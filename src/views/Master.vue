@@ -34,7 +34,7 @@
                     <nav class="navbar navbar-expand-lg">
                        
                         <a class="navbar-brand" href="#">
-                            <img src="assets/images/logo.svg" alt="Logo">
+                            <img src="frontend/assets/images/logo.svg" alt="Logo">
                         </a>
                         
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,7 +95,7 @@
                     </div> <!-- container -->
                     <div class="slider-image-box d-none d-lg-flex align-items-end">
                         <div class="slider-image">
-                            <img src="assets/images/slider/1.png" alt="Hero">
+                            <img src="frontend/assets/images/slider/1.png" alt="Hero">
                         </div> <!-- slider-imgae -->
                     </div> <!-- slider-imgae box -->
                 </div> <!-- carousel-item -->
@@ -117,7 +117,7 @@
                     </div> <!-- container -->
                     <div class="slider-image-box d-none d-lg-flex align-items-end">
                         <div class="slider-image">
-                            <img src="assets/images/slider/2.png" alt="Hero">
+                            <img src="frontend/assets/images/slider/2.png" alt="Hero">
                         </div> <!-- slider-imgae -->
                     </div> <!-- slider-imgae box -->
                 </div> <!-- carousel-item -->
@@ -139,7 +139,7 @@
                     </div> <!-- container -->
                     <div class="slider-image-box d-none d-lg-flex align-items-end">
                         <div class="slider-image">
-                            <img src="assets/images/slider/3.png" alt="Hero">
+                            <img src="frontend/assets/images/slider/3.png" alt="Hero">
                         </div> <!-- slider-imgae -->
                     </div> <!-- slider-imgae box -->
                 </div> <!-- carousel-item -->
@@ -175,7 +175,7 @@
                             <h4 class="features-title"><a href="#">Graphics Design</a></h4>
                             <div class="features-icon">
                                 <i class="lni lni-brush"></i>
-                                <img class="shape" src="assets/images/f-shape-1.svg" alt="Shape">
+                                <img class="shape" src="frontend/assets/images/f-shape-1.svg" alt="Shape">
                             </div>
                         </div>
                         <div class="features-content">
@@ -190,7 +190,7 @@
                             <h4 class="features-title"><a href="#">Website Design</a></h4>
                             <div class="features-icon">
                                 <i class="lni lni-layout"></i>
-                                <img class="shape" src="assets/images/f-shape-1.svg" alt="Shape">
+                                <img class="shape" src="frontend/assets/images/f-shape-1.svg" alt="Shape">
                             </div>
                         </div>
                         <div class="features-content">
@@ -205,7 +205,7 @@
                             <h4 class="features-title"><a href="#">Digital Marketing</a></h4>
                             <div class="features-icon">
                                 <i class="lni lni-bolt"></i>
-                                <img class="shape" src="assets/images/f-shape-1.svg" alt="Shape">
+                                <img class="shape" src="frontend/assets/images/f-shape-1.svg" alt="Shape">
                             </div>
                         </div>
                         <div class="features-content">
@@ -240,7 +240,7 @@
                 <div class="col-lg-4 col-md-7 col-sm-9">
                     <div class="pricing-style mt-30">
                         <div class="pricing-icon text-center">
-                            <img src="assets/images/basic.svg" alt="">
+                            <img src="frontend/assets/images/basic.svg" alt="">
                         </div>
                         <div class="pricing-header text-center">
                             <h5 class="sub-title">Basic</h5>
@@ -261,7 +261,7 @@
                 <div class="col-lg-4 col-md-7 col-sm-9">
                     <div class="pricing-style mt-30">
                         <div class="pricing-icon text-center">
-                            <img src="assets/images/pro.svg" alt="">
+                            <img src="frontend/assets/images/pro.svg" alt="">
                         </div>
                         <div class="pricing-header text-center">
                             <h5 class="sub-title">Pro</h5>
@@ -282,7 +282,7 @@
                 <div class="col-lg-4 col-md-7 col-sm-9">
                     <div class="pricing-style mt-30">
                         <div class="pricing-icon text-center">
-                            <img src="assets/images/enterprise.svg" alt="">
+                            <img src="frontend/assets/images/enterprise.svg" alt="">
                         </div>
                         <div class="pricing-header text-center">
                             <h5 class="sub-title">Enterprise</h5>
@@ -375,7 +375,7 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="about-image mt-50">
-                        <img src="assets/images/about.jpg" alt="about">
+                        <img src="frontend/assets/images/about.jpg" alt="about">
                     </div> <!-- faq image -->
                 </div>
             </div> <!-- row -->
@@ -415,7 +415,7 @@
                                 <div class="testimonial-author d-sm-flex justify-content-between">
                                     <div class="author-info d-flex align-items-center">
                                         <div class="author-image">
-                                            <img src="assets/images/author-1.jpg" alt="author">
+                                            <img src="frontend/assets/images/author-1.jpg" alt="author">
                                         </div>
                                         <div class="author-name media-body">
                                             <h5 class="name">Mr. Jems Bond</h5>
@@ -441,7 +441,7 @@
                                 <div class="testimonial-author d-sm-flex justify-content-between">
                                     <div class="author-info d-flex align-items-center">
                                         <div class="author-image">
-                                                <img src="assets/images/author-2.jpg" alt="author">
+                                                <img src="frontend/assets/images/author-2.jpg" alt="author">
                                         </div>
                                         <div class="author-name media-body">
                                             <h5 class="name">Mr. Jems Bond</h5>
@@ -467,7 +467,7 @@
                                 <div class="testimonial-author d-sm-flex justify-content-between">
                                     <div class="author-info d-flex align-items-center">
                                         <div class="author-image">
-                                                <img src="assets/images/author-3.jpg" alt="author">
+                                                <img src="frontend/assets/images/author-3.jpg" alt="author">
                                         </div>
                                         <div class="author-name media-body">
                                             <h5 class="name">Mr. Jems Bond</h5>
@@ -511,7 +511,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/team-1.jpg" alt="Team">
+                            <img src="frontend/assets/images/team-1.jpg" alt="Team">
                         </div>
                         <div class="team-content">
                             <div class="team-social">
@@ -530,7 +530,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/team-2.jpg" alt="Team">
+                            <img src="frontend/assets/images/team-2.jpg" alt="Team">
                         </div>
                         <div class="team-content">
                             <div class="team-social">
@@ -549,7 +549,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/team-3.jpg" alt="Team">
+                            <img src="frontend/assets/images/team-3.jpg" alt="Team">
                         </div>
                         <div class="team-content">
                             <div class="team-social">
@@ -631,7 +631,7 @@
                     <div class="contact-wrapper form-style-two pt-115">
                         <h4 class="contact-title pb-10"><i class="lni lni-envelope"></i> Leave <span>A Message.</span></h4>
                         
-                        <form id="contact-form" action="assets/contact.php" method="post">
+                        <form id="contact-form" action="frontend/assets/contact.php" method="post">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-input mt-25">
