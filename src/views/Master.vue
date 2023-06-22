@@ -50,13 +50,13 @@
                                 <li class="nav-item"><a class="page-scroll" href="#pricing">Pricing</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#about">About</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#team">Team</a></li>
-                                <li class="nav-item"><a class="page-scroll" href="#contact">Contact</a></li>
+                                <!-- <li class="nav-item"><a class="page-scroll" href="#contact">Contact</a></li> -->
                             </ul>
                         </div>
                         
                         <div class="navbar-btn d-none d-sm-inline-block">
                             <ul>
-                                <li><a class="solid" href="#">Download</a></li>
+                                <li><a class="solid" href="#contact">Get Started</a></li>
                             </ul>
                         </div>
                     </nav> <!-- navbar -->
